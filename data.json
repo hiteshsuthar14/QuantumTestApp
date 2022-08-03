@@ -1,0 +1,39 @@
+[
+   {
+      "id":1,
+      "storeName":"Mini Baskets",
+      "products":[
+         {
+            "name":"Apple",
+            "price":159,
+            "image":"https://picsum.photos/200/300?random=1"
+         },
+         {
+            "name":"Small Tindey",
+            "price":110,
+            "image":"https://picsum.photos/200/300?random=2"
+         },
+         {
+            "name":"Yellow Pumpkin",
+            "price":40,
+            "image":"https://picsum.photos/200/300?random=3"
+         },
+         {
+            "name":"Kiwi",
+            "price":45,
+            "image":"https://picsum.photos/200/300?random=4"
+         }
+      ]
+   },
+   {
+      "id":2,
+      "storeName":"Designer Hub",
+      "products":[
+         {
+            "name":"Kurti",
+            "price":50,
+            "image":"https://picsum.photos/200/300?random=5"
+         }
+      ]
+   }
+]
